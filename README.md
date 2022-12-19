@@ -1,6 +1,5 @@
 # Projects
-Hello!
-
+Hello!  
 This section is for completed projects that I have done either professionally or casually in my spare time. 
 
 Current projects in this section are:
